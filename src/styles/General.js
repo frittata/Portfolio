@@ -54,11 +54,14 @@ const General = createGlobalStyle`
       margin: 2rem 0;
   }
   .cont33{
-    width: 33%;
-    max-width: 33%;
+    //width: 33%;
+    //max-width: 33%;
     padding: 8rem 0;
     margin: 2rem;
     position: relative;
+  }
+  .boxes a{
+    width: 100%;
   }
   .black-box{
       background-color: var(--very-deep-dark);

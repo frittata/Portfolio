@@ -9,11 +9,11 @@ import Contact from '../components/Contact.js';
 export default function Identify() {
   return (
     <div className="page-container">
-      <div className="icon-head header">
+      <div id="start" className="icon-head header">
         <img className="icon-cont" src={logo} alt="logo" />
         <div>
-          <h1>Graphic Design</h1>
-          <h3>Identify your reality</h3>
+          <h1>Identify</h1>
+          <h3>Brand Identity</h3>
         </div>
       </div>
       <div className="cont row boxed">
