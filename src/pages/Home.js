@@ -12,7 +12,7 @@ export default function Home() {
       <div className="header">
         <img className="logo-cont" src={logo} alt="logo" />
         <h1>LT Web Studio</h1>
-        <h3>Crea la tua identità digitale con soluzioni a 360°</h3>
+        <h3>Crea la tua identità digitale</h3>
       </div>
       <div className="cont">
         <h2>
