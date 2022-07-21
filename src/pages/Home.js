@@ -11,8 +11,8 @@ export default function Home() {
     <div className="page-container">
       <div className="header">
         <img className="logo-cont" src={logo} alt="logo" />
-        <h1>LT Web Studio</h1>
-        <h3>Crea la tua identità digitale</h3>
+        <h1>Lorenzo Tognini</h1>
+        <h3>Software developer & Graphic Deisigner</h3>
       </div>
       <div className="cont">
         <h2>
